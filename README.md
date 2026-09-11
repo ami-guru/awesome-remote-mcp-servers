@@ -60,6 +60,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 
 | Name | Category | URL | Authentication | Maintainer |
 |------|----------|-------------|----------------|------------|
+| [x402 Scraper Engine](https://github.com/ami-guru/x402-scraper-engine) | Web Scraping & Search | `https://x402-scraper-engine.gejoe-tt.workers.dev` | HTTP 402 (USDC on Base) + 2 Free Calls | [ASOT / Guru](https://getguruautomations.com) |
 | Airtable | Database | `https://mcp.airtable.com/mcp` | OAuth2.1 | [Airtable](https://airtable.com) |
 | Asana | Project Management | `https://mcp.asana.com/sse` | OAuth2.1 | [Asana](https://asana.com) |
 | Audioscrape | RAG-as-a-Service | `https://mcp.audioscrape.com` | OAuth2.1 | [Audioscrape](https://www.audioscrape.com) |
